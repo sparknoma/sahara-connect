@@ -1,0 +1,51 @@
+### Goals
+- Promote local development 
+	- allow local to create tours/experiences or to host people to earn money
+	- promote local exploration for tourist organized by people who know the place
+- Promote sustainable tourism 
+- Promote infrastructure development creating systems for ticketing, tourism 
+- Promote national tourism facilitating tourism
+- Make it easy for tourist to travel and enjoy their trips having a structured plan
+- Improve safety for tourists 
+### Description
+- app will allow locals to create a tour/experiences and sell them in the platform
+	- the experience will have the following information
+		- name
+		- description
+		- photos
+		- reviews
+		- geo position
+- we will have all information on how to travel to the country ex: if you need visa, if your country is allowed to visit, any document and payments you need to do to safely travel 
+- we will have information about local transport how to move from tour to tour
+	- future development will be adding the possibility to buy transport tickets in the platform
+- the app will ask the tourist the following question:
+	- where you wanna go. ex: Mauritania
+	- what are the dates of travel. ex: 10/06/2025 to 30/06/2025
+	- questions about what do you like
+		- city tourism
+		- cultural 
+		- nature
+		- beach
+	- based on your answers we will create an itinerary
+		- step by step guide on how to get to the place
+		- how to move from point a to point b. ex take bus buy tickets in position X
+		- where to buy tickets for experiences. ex to buy tickets for museum A buy them in position X
+		- where to stay and where to book for the hotels and position
+		- eventually with enough experience we will show an itinerary with each step having some tours/experiences to choose from to improve the itinerary with personal preferences
+		- future development will allow us to keep all inside the platform. 
+			- all hotel, tours, transport bookings will happen inside the platform so we will show just how much it will cost total to the tourist and when he accept the itinerary we will buy and book all that's needed.
+### Workflow Tourist
+- user create an account
+- user answer the questionary about the trip
+- the platform will generate a complete itinerary with all the needed instructions
+- the used can improve the itinerary personalizing it
+- the itinerary will show the cost for each tour/experience/hotel and a total price
+- when the user accept the itinerary we will book everything that's needed
+- finally we give the user the step by step itinerary with all reservations ready to use
+- for each tour/experience/hotel the users will be asked to write a review
+### Workflow Service Providers
+The service provider is the people who will register in the platform to offer tours, transportation, hotels
+- register to the platform 
+- have their identity verify
+- create the service they offer
+- engage with other locals to improve the infrastructure
